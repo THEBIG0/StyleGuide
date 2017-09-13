@@ -48,7 +48,7 @@ position: absolute;
     background-color:white;
     /*color:black;*/
     
-    height:800px;
+    height:2500px;
     width:650px;
     
     
@@ -69,6 +69,24 @@ div2
     z-index: -1;
     
 }
+div3
+{
+    position: absolute;
+    top:380%;
+    left: 31%;
+    
+}
+
+div4
+{
+    position: absolute;
+    z-index: 1;
+    /*margin: -50px 0 -100px;*/
+    top: 250%;
+    left: 31%;
+    
+}
+
 img
 {
     margin: -50px 0 0 -200px;
